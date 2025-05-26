@@ -1,3 +1,0 @@
-# My AI/ML Data Science Projects
-
-I worked on hands-on projects that deepened my understanding of data science and machine learning concepts. Using Python, I tackled tasks like cleaning and preprocessing data, building and evaluating models such as logistic regression, k-nearest neighbors, decision trees, and support vector machines, and detecting bias in datasets. I also explored natural language processing (NLP) and designed neural network models. Each project challenged me to access, visualize, and interpret data, integrating techniques for statistical summaries, database management, and high-performance frameworks. These experiences equipped me with the skills to solve real-world data science problems effectively.
